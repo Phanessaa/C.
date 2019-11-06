@@ -1,0 +1,99 @@
+html{
+    height: 100%;
+  
+}
+
+body{
+    background-image: url(images/peo11.jpg);
+    background-repeat: no-repeat;
+    background-attachment: absolute;
+    background-position: center;
+    background-color: rgb(26, 31, 27);
+    padding: 15%;
+    text-align: center;
+   
+    
+    
+  
+}
+
+    
+  
+    
+
+}
+.mt2{
+    opacity: .7;
+    position: absolute;
+    top: 0px;
+    left: 0px;}
+
+.wut{
+    text-decoration: none;
+    color: blanchedalmond;
+  display: inline-block;
+  text-align: center;
+    font-size: 30px;
+    list-style-type: none;
+    margin: 0;
+  padding: 0;
+  overflow: hidden;
+    
+}
+li {
+    float: left;
+  }
+  
+  li a {
+
+    color: blanchedalmond;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    text-shadow: 10px 5px 4px rgb(14, 65, 25);
+  }
+  a{
+    color: blanchedalmond;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    text-shadow: 10px 5px 4px rgb(14, 65, 25);
+
+  }
+h1{
+    color: blanchedalmond;
+    font-size:95px;
+    font-weight: 300;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 10px 5px 4px rgb(14, 65, 25);
+}
+p{
+    line-height: 1.3;
+    text-shadow: 6px 7px 12px rgb(14, 65, 25);
+    font-size: 24px;
+    font-weight: 230px;
+    color: blanchedalmond;
+    word-spacing: 10%;
+    word-wrap: break-word;
+    text-align: center;
+
+}
+:hover > a{
+    color:gray;
+}
+.mt{
+    opacity: .9;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;}
+blockquote{
+    line-height: 1.3;
+    text-shadow: 6px 7px 12px rgb(14, 65, 25);
+    font-size: 24px;
+    font-weight: 230px;
+    color: blanchedalmond;
+    word-spacing: 10%;
+    word-wrap: break-word;
+    text-align: center;
+}

@@ -1,0 +1,99 @@
+html{
+    height: 100%;
+    
+}
+body{
+    background-image: url(images/peo.jpg);
+    background-color: rgb(27, 32, 27);
+    background-repeat: space;
+    background-attachment: absolute;
+    color: antiquewhite;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 20px;
+ 
+
+
+    
+}
+.ha{
+    text-decoration: none;
+        color: antiquewhite;
+        display: inline-block;
+        font-size: 30px;
+        list-style-type: none;
+        margin: 0;
+      padding: 0;
+      overflow: hidden;
+      text-shadow: 10px 5px 4px rgb(14, 65, 25);
+      
+      
+    
+}
+
+
+:hover > a{
+    color:gray;
+}
+li {
+    float: left;
+    text-decoration: none;
+  }
+  
+  li a {
+    display: block;
+    color: antiquewhite;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;}
+h2{
+    font-size: 102px;
+    font-weight: 300;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 10px 5px 4px rgb(14, 65, 25);
+}
+p{
+    text-shadow: 8px 8px 8px rgb(14, 65, 25);
+    font-size: 24px;
+    font-weight: 230px;
+    
+   
+}
+.mt{
+    opacity: .9;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;}
+.tm{
+    position: absolute;
+    right: 1000px;
+    top: 600px;
+    display: block;
+    background-color: rgb(14, 65, 25);
+}
+.tim{
+    position: absolute;
+    display: inline;
+    left: 1000px;
+    top: 600px;
+    color: rgb(14, 65, 25);
+}
+.mit{
+    position: absolute;
+    display: inline;
+    left: 500px;
+    right: 500px;
+    top: 600px;
+}
+figure {
+    display: inline-block;
+    border: 1px solid gray;
+    margin: 20px; /* adjust as needed */
+}
+figure figcaption {
+    display: inline;
+    border: 1px solid blue;
+    text-align: center;
+}
